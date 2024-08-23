@@ -6,7 +6,7 @@ FlappyQF is a platform that employes a Defi approach that ensures fair competiti
 ### ‼️Problem Statement
 This innovative projects aims to tackle a few major problems that are being faced in the Defi space
 - Complicated contribution process
-- Unfair competition among projects
+- Unfair competition among projects due to unbalanced project's followers
 
 ### 🎯Vision
 FlappyQF envisions a fair and engaging platform that democratizes project funding through gamified contributions, ensuring a level playing field for all projects while fostering community participation and transparency.
