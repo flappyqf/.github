@@ -34,7 +34,7 @@ What sets FlappyQF apart is its combination of fairness, ease of use, and engagi
 3. e
 
 ### API3
-1. eA
+1. e
 2. e
 3. e
 
