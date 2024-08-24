@@ -15,38 +15,38 @@ FlappyQF envisions a fair and engaging platform that democratizes project fundin
 What sets FlappyQF apart is its combination of fairness, ease of use, and engaging gamification, making project funding more accessible and enjoyable.
 
 ## ⚒️How it's Made?
-
+Users can contribute to projects while playing a flappy bird-inspired game, where their contributions help boost the project's visibility. The more they contribute, the higher the project soars, powered up by their support.
 
 ## The Stack
-1. Frontend - Next.JS, TailwindCSS
-2. UI Library - DaisyUI
-3. Web3 Development - Solidity, Foundry
+1. Frontend - Next.JS, TailwindCSS, React, Javascript, Typescript
+2. UI Library - DaisyUI, Aceternity UI
+3. Web3 Development - Solidity, Foundry, ThirdWeb
 
 ## Contract Address
 ### Scroll
-1. e
-2. e
-3. e
+1. Vault Contract
+2. SynToken
+3. Treasure
 
 ### Metamask/ Linea
-1. e
-2. e
-3. e
+1. Vault Contract
+2. SynToken
+3. Treasure
 
 ### API3
-1. e
-2. e
-3. e
+1. Vault Contract
+2. SynToken
+3. Treasure
 
 ### Mercoin
-1. e
-2. e
-3. e
+1. Vault Contract
+2. SynToken
+3. Treasure
 
 ### Nero
-1. e
-2. e
-3. e
+1. Vault Contract
+2. SynToken
+3. Treasure
 
 
 
