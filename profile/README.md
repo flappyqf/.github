@@ -46,10 +46,20 @@ We used Cabinet RPC nodes here to deploy our smart contracts on Scroll and Ether
 ### API3
 #### DeFI and oracle extractable value Best implementation of an API3 oracle
 #### API3 OEV/Price Feeds
-We utilised Price Feed protected by OEV on most chains that we deployed on (Ethereum Sepolia, Scroll Sepolia, and Linea Sepolia), the code integrating it is here => https://github.com/flappyqf/contracts/blob/main/src/FlappyQFFactory.sol#L108-L234. These price feeds facilitate the process of allowing for round contributions to be made in ETH therefore facilitating better user experience, this is then used to convert to USDC reflecting each round's matching pool. A sample transaction showing how we utilised this to convert ETH to USDC with as less slippage as possible => https://sepolia.etherscan.io/tx/0x84edbb2bd3ac96215ff24fddfc923dfefccbdbded435c96fe9cd62b8a773a6f3#eventlog
+We utilised Price Feed protected by OEV on most chains that we deployed on (Ethereum Sepolia, Scroll Sepolia, and Linea Sepolia), the code integrating it is here => https://github.com/flappyqf/contracts/blob/main/src/FlappyQFFactory.sol#L108-L234. 
+
+These price feeds facilitate the process of allowing for round contributions to be made in ETH therefore facilitating better user experience, this is then used to convert to USDC reflecting each round's matching pool. 
+
+A sample transaction showing how we utilised this to convert ETH to USDC with as less slippage as possible => https://sepolia.etherscan.io/tx/0x84edbb2bd3ac96215ff24fddfc923dfefccbdbded435c96fe9cd62b8a773a6f3#eventlog
 
 #### API3 QRNG
-On the Ethereum Sepolia network, we utilised API3 Quantum Random Number Generator (QRNG) to capture a random number which is crucial for us to perform randomization of projects that are competing with each other. The code is here => https://github.com/flappyqf/contracts/blob/main/src/FlappyQFFactory.sol#L15-L170. The transaction hash for the number being called for is here => https://sepolia.etherscan.io/tx/0xe18335bd903ed6d2d565e144ed7d5634432117af9a17dbd941abb0dc5180aed9#eventlog. It being retrieved is here => https://sepolia.etherscan.io/tx/0x22095bc7319b6c9f49d4a038e856cec778ffddefd84ad3208146cd987af95a88#eventlog. The random number is used to assign teams as shown here => https://sepolia.etherscan.io/tx/0xf39135a1612dc9d41ae811cf076a370d25c2209f5d1e1b7d8a6b07cd04a6256a#eventlog
+On the Ethereum Sepolia network, we utilised API3 Quantum Random Number Generator (QRNG) to capture a random number which is crucial for us to perform randomization of projects that are competing with each other. The code is here => https://github.com/flappyqf/contracts/blob/main/src/FlappyQFFactory.sol#L15-L170. 
+
+The transaction hash for the number being called for is here => https://sepolia.etherscan.io/tx/0xe18335bd903ed6d2d565e144ed7d5634432117af9a17dbd941abb0dc5180aed9#eventlog. 
+
+It being retrieved is here => https://sepolia.etherscan.io/tx/0x22095bc7319b6c9f49d4a038e856cec778ffddefd84ad3208146cd987af95a88#eventlog. 
+
+The random number is used to assign teams as shown here => https://sepolia.etherscan.io/tx/0xf39135a1612dc9d41ae811cf076a370d25c2209f5d1e1b7d8a6b07cd04a6256a#eventlog
 
 ### NERO
 #### Build dApps or tools using NERO Chain (testnet)
