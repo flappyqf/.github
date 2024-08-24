@@ -38,7 +38,7 @@ Users can contribute to projects while playing a flappy bird-inspired game, wher
 2. [SynToken]()
 3. [Treasure]()
 
-### Mercoin
+### ENS
 1. [Vault Contract]()
 2. [SynToken]()
 3. [Treasure]()
