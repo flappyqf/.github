@@ -60,32 +60,17 @@ We deployed all our smart contracts to the NERO testnet as we believe in the rea
 3. [FlappyQF Implementation Contract](https://testnetscan.nerochain.io/address/0xA419a7a700dE519C95CF012767F78f90E115A8EC)
 4. [⁠Game Verifier Contract](https://testnetscan.nerochain.io/address/0xe9E4af72b567a9CBD6460CDA0466D071934e890d)
 5. [Game Proving Contract](https://testnetscan.nerochain.io/address/0xe4e52354d9625CCa463B071dAc1Af27533cbEc00)
-   
-### Metamask/ Linea
+
+### ENS
+#### Integrate with ENS
+We utilised Thirdweb as our preferred frontend stack which comes packed with ENS as shown here, thank you Thirdweb and ENS!
+<img width="1512" alt="Screenshot 2024-08-25 at 8 15 34 AM" src="https://github.com/user-attachments/assets/1dec5de1-9b89-4267-b203-8d554cea879f">
+
+### Metamask/Linea
+We built a gaming app that we feel will revolutionize the way quadratic funding is done, and it should definitely exist on Linea because of the tremendous ecosystem support.
+
 1. [Mock USDC](https://sepolia.lineascan.build/address/0x460c44641673b2fB1d7D769f01B309EAA5eAc533)
 2. [⁠FlappyQF Factory Contract](https://sepolia.lineascan.build/address/0xe9E4af72b567a9CBD6460CDA0466D071934e890d)
 3. [FlappyQF Implementation Contract](https://sepolia.lineascan.build/address/0xe4e52354d9625CCa463B071dAc1Af27533cbEc00)
 4. [⁠Game Verifier Contract](https://sepolia.lineascan.build/address/0xeA9c9a0e5E6493F2BD8a1E81e68a52b63D315819)
 5. [Game Proving Contract](https://sepolia.lineascan.build/address/0xCB8Eb5882FBDf0a746aec8857a36132B2aE42714)
-   
-
-### API3
-1. [Mock USDC]()
-2. [⁠FlappyQF Factory Contract]()
-3. [FlappyQF Implementation Contract]()
-4. [⁠Game Verifier Contract]()
-5. [Game Proving Contract]()
-
-### ENS
-1. [Mock USDC]()
-2. [⁠FlappyQF Factory Contract]()
-3. [FlappyQF Implementation Contract]()
-4. [⁠Game Verifier Contract]()
-5. [Game Proving Contract]()
-
-
-
-   
-
-
-
